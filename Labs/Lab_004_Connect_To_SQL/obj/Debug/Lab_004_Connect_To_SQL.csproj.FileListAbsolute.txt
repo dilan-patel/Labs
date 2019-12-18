@@ -1,0 +1,5 @@
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_004_Connect_To_SQL\bin\Debug\Lab_004_Connect_To_SQL.exe.config
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_004_Connect_To_SQL\bin\Debug\Lab_004_Connect_To_SQL.exe
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_004_Connect_To_SQL\bin\Debug\Lab_004_Connect_To_SQL.pdb
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_004_Connect_To_SQL\obj\Debug\Lab_004_Connect_To_SQL.exe
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_004_Connect_To_SQL\obj\Debug\Lab_004_Connect_To_SQL.pdb

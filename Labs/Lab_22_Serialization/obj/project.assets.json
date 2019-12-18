@@ -1,0 +1,187 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "SoapFormatter/1.0.11": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/SoapFormatter.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SoapFormatter.dll": {}
+        }
+      },
+      "Symitar.ApiClients.Soap/1.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Symitar.Api.SoapClient.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Symitar.Api.SoapClient.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "SoapFormatter/1.0.11": {
+      "sha512": "zE2HkP26lkOcXvEVasjcQT7f4lZWPF+ThBLRLLWQaBz5Kabyr0rQUyBM0BSw7g6JddEqSK/BzhpVitJ0vAu4XA==",
+      "type": "package",
+      "path": "soapformatter/1.0.11",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/SoapFormatter.dll",
+        "soapformatter.1.0.11.nupkg.sha512",
+        "soapformatter.nuspec"
+      ]
+    },
+    "Symitar.ApiClients.Soap/1.0.1": {
+      "sha512": "T4PMTUv8ZXlODpYzXuX5ume+Z7xrntjIc6u89hpC2tETfCQnXmRLmGpeKDsR8Wnze4IZbCcdNgqL24CipjmBsQ==",
+      "type": "package",
+      "path": "symitar.apiclients.soap/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/App.config",
+        "lib/net45/Symitar.Api.SoapClient.dll",
+        "symitar.apiclients.soap.1.0.1.nupkg.sha512",
+        "symitar.apiclients.soap.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "Newtonsoft.Json >= 12.0.3",
+      "SoapFormatter >= 1.0.11",
+      "Symitar.ApiClients.Soap >= 1.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Dilan Patel\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Dilan Patel\\Engineering45\\Labs\\Labs\\Lab_22_Serialization\\Lab_22_Serialization.csproj",
+      "projectName": "Lab_22_Serialization",
+      "projectPath": "C:\\Users\\Dilan Patel\\Engineering45\\Labs\\Labs\\Lab_22_Serialization\\Lab_22_Serialization.csproj",
+      "packagesPath": "C:\\Users\\Dilan Patel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dilan Patel\\Engineering45\\Labs\\Labs\\Lab_22_Serialization\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "\\\\sg-fp01\\Folder Redirections\\Dilan Patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "dependencies": {
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[12.0.3, )"
+          },
+          "SoapFormatter": {
+            "target": "Package",
+            "version": "[1.0.11, )"
+          },
+          "Symitar.ApiClients.Soap": {
+            "target": "Package",
+            "version": "[1.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Symitar.ApiClients.Soap 1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Symitar.ApiClients.Soap",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    }
+  ]
+}

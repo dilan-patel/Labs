@@ -1,0 +1,10 @@
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_018_Streaming\obj\Debug\netcoreapp3.0\Lab_018_Streaming.AssemblyInfoInputs.cache
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_018_Streaming\obj\Debug\netcoreapp3.0\Lab_018_Streaming.AssemblyInfo.cs
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_018_Streaming\bin\Debug\netcoreapp3.0\Lab_018_Streaming.exe
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_018_Streaming\bin\Debug\netcoreapp3.0\Lab_018_Streaming.deps.json
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_018_Streaming\bin\Debug\netcoreapp3.0\Lab_018_Streaming.runtimeconfig.json
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_018_Streaming\bin\Debug\netcoreapp3.0\Lab_018_Streaming.runtimeconfig.dev.json
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_018_Streaming\bin\Debug\netcoreapp3.0\Lab_018_Streaming.dll
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_018_Streaming\bin\Debug\netcoreapp3.0\Lab_018_Streaming.pdb
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_018_Streaming\obj\Debug\netcoreapp3.0\Lab_018_Streaming.dll
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_018_Streaming\obj\Debug\netcoreapp3.0\Lab_018_Streaming.pdb

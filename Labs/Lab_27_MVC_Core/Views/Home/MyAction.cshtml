@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewData["Title"] = "MyAction";
+}
+
+<h1>MyAction</h1>
+
+<h2>This is my action page</h2>
+
+<h3>Page Title is @ViewData["Title"]</h3>
+
+<p>Some data received from back end is</p>
+
+<ul>
+    @for (int i = 0; i < 5; i++)
+    {
+        <li>Your item is @i</li>
+    }
+</ul>
+
+<ul>
+
+    @foreach(var item in Model.MyList)
+    {
+        <li>Item from the Model is @item</li>
+    }
+</ul>

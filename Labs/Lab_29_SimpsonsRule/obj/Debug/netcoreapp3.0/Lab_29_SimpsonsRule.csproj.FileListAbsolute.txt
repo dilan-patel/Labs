@@ -1,0 +1,10 @@
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_29_SimpsonsRule\bin\Debug\netcoreapp3.0\Lab_29_SimpsonsRule.exe
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_29_SimpsonsRule\bin\Debug\netcoreapp3.0\Lab_29_SimpsonsRule.deps.json
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_29_SimpsonsRule\bin\Debug\netcoreapp3.0\Lab_29_SimpsonsRule.runtimeconfig.json
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_29_SimpsonsRule\bin\Debug\netcoreapp3.0\Lab_29_SimpsonsRule.runtimeconfig.dev.json
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_29_SimpsonsRule\bin\Debug\netcoreapp3.0\Lab_29_SimpsonsRule.dll
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_29_SimpsonsRule\bin\Debug\netcoreapp3.0\Lab_29_SimpsonsRule.pdb
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_29_SimpsonsRule\obj\Debug\netcoreapp3.0\Lab_29_SimpsonsRule.AssemblyInfoInputs.cache
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_29_SimpsonsRule\obj\Debug\netcoreapp3.0\Lab_29_SimpsonsRule.AssemblyInfo.cs
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_29_SimpsonsRule\obj\Debug\netcoreapp3.0\Lab_29_SimpsonsRule.dll
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_29_SimpsonsRule\obj\Debug\netcoreapp3.0\Lab_29_SimpsonsRule.pdb

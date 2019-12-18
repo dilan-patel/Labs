@@ -1,0 +1,15 @@
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_22_Serialization\bin\Debug\netcoreapp3.0\Lab_22_Serialization.exe
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_22_Serialization\obj\Debug\netcoreapp3.0\Lab_22_Serialization.AssemblyInfoInputs.cache
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_22_Serialization\obj\Debug\netcoreapp3.0\Lab_22_Serialization.AssemblyInfo.cs
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_22_Serialization\bin\Debug\netcoreapp3.0\Symitar.Api.SoapClient.dll
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_22_Serialization\obj\Debug\netcoreapp3.0\Lab_22_Serialization.csproj.CopyComplete
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_22_Serialization\bin\Debug\netcoreapp3.0\Lab_22_Serialization.deps.json
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_22_Serialization\bin\Debug\netcoreapp3.0\Lab_22_Serialization.runtimeconfig.json
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_22_Serialization\bin\Debug\netcoreapp3.0\Lab_22_Serialization.runtimeconfig.dev.json
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_22_Serialization\bin\Debug\netcoreapp3.0\Lab_22_Serialization.dll
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_22_Serialization\bin\Debug\netcoreapp3.0\Lab_22_Serialization.pdb
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_22_Serialization\bin\Debug\netcoreapp3.0\SoapFormatter.dll
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_22_Serialization\obj\Debug\netcoreapp3.0\Lab_22_Serialization.dll
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_22_Serialization\obj\Debug\netcoreapp3.0\Lab_22_Serialization.pdb
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_22_Serialization\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_22_Serialization\obj\Debug\netcoreapp3.0\Lab_22_Serialization.csprojAssemblyReference.cache

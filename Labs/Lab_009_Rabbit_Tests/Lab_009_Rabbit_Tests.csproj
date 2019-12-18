@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lab_006_Rabbits\Lab_006_Rabbits.csproj" />
+    <ProjectReference Include="..\Lab_008_TDD_Collections\Lab_008_TDD_Collections.csproj" />
+  </ItemGroup>
+
+</Project>

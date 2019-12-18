@@ -1,0 +1,10 @@
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_21_AwaitAsync\bin\Debug\netcoreapp3.0\Lab_21_AwaitAsync.exe
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_21_AwaitAsync\bin\Debug\netcoreapp3.0\Lab_21_AwaitAsync.deps.json
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_21_AwaitAsync\bin\Debug\netcoreapp3.0\Lab_21_AwaitAsync.runtimeconfig.json
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_21_AwaitAsync\bin\Debug\netcoreapp3.0\Lab_21_AwaitAsync.runtimeconfig.dev.json
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_21_AwaitAsync\bin\Debug\netcoreapp3.0\Lab_21_AwaitAsync.dll
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_21_AwaitAsync\bin\Debug\netcoreapp3.0\Lab_21_AwaitAsync.pdb
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_21_AwaitAsync\obj\Debug\netcoreapp3.0\Lab_21_AwaitAsync.AssemblyInfoInputs.cache
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_21_AwaitAsync\obj\Debug\netcoreapp3.0\Lab_21_AwaitAsync.AssemblyInfo.cs
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_21_AwaitAsync\obj\Debug\netcoreapp3.0\Lab_21_AwaitAsync.dll
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_21_AwaitAsync\obj\Debug\netcoreapp3.0\Lab_21_AwaitAsync.pdb

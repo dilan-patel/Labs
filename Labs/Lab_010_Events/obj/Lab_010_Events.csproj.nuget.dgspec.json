@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Dilan Patel\\Engineering45\\Labs\\Labs\\Lab_010_Events\\Lab_010_Events.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Dilan Patel\\Engineering45\\Labs\\Labs\\Lab_010_Events\\Lab_010_Events.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dilan Patel\\Engineering45\\Labs\\Labs\\Lab_010_Events\\Lab_010_Events.csproj",
+        "projectName": "Lab_010_Events",
+        "projectPath": "C:\\Users\\Dilan Patel\\Engineering45\\Labs\\Labs\\Lab_010_Events\\Lab_010_Events.csproj",
+        "packagesPath": "C:\\Users\\Dilan Patel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dilan Patel\\Engineering45\\Labs\\Labs\\Lab_010_Events\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "\\\\sg-fp01\\Folder Redirections\\Dilan Patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

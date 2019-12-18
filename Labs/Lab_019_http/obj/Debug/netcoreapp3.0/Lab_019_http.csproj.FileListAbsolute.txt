@@ -1,0 +1,10 @@
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_019_http\bin\Debug\netcoreapp3.0\Lab_019_http.exe
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_019_http\bin\Debug\netcoreapp3.0\Lab_019_http.deps.json
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_019_http\bin\Debug\netcoreapp3.0\Lab_019_http.runtimeconfig.json
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_019_http\bin\Debug\netcoreapp3.0\Lab_019_http.runtimeconfig.dev.json
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_019_http\bin\Debug\netcoreapp3.0\Lab_019_http.dll
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_019_http\bin\Debug\netcoreapp3.0\Lab_019_http.pdb
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_019_http\obj\Debug\netcoreapp3.0\Lab_019_http.AssemblyInfoInputs.cache
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_019_http\obj\Debug\netcoreapp3.0\Lab_019_http.AssemblyInfo.cs
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_019_http\obj\Debug\netcoreapp3.0\Lab_019_http.dll
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_019_http\obj\Debug\netcoreapp3.0\Lab_019_http.pdb

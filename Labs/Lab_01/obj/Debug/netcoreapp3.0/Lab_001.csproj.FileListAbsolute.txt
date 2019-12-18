@@ -1,0 +1,11 @@
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_01\bin\Debug\netcoreapp3.0\Lab_001.exe
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_01\bin\Debug\netcoreapp3.0\Lab_001.deps.json
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_01\bin\Debug\netcoreapp3.0\Lab_001.runtimeconfig.json
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_01\bin\Debug\netcoreapp3.0\Lab_001.runtimeconfig.dev.json
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_01\bin\Debug\netcoreapp3.0\Lab_001.dll
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_01\bin\Debug\netcoreapp3.0\Lab_001.pdb
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_01\obj\Debug\netcoreapp3.0\Lab_001.AssemblyInfoInputs.cache
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_01\obj\Debug\netcoreapp3.0\Lab_001.AssemblyInfo.cs
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_01\obj\Debug\netcoreapp3.0\Lab_001.dll
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_01\obj\Debug\netcoreapp3.0\Lab_001.pdb
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\Lab_01\obj\Debug\netcoreapp3.0\Lab_001.csprojAssemblyReference.cache

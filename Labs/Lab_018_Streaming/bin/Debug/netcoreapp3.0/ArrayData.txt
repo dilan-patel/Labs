@@ -1,0 +1,8 @@
+Hello
+this
+is
+some
+data
+from
+an
+array.

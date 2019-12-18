@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Lab_003_OOP_Concepts/1.0.0": {
+        "runtime": {
+          "Lab_003_OOP_Concepts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab_003_OOP_Concepts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\LAB_16_TASKS\bin\Debug\netcoreapp3.0\LAB_16_TASKS.exe
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\LAB_16_TASKS\bin\Debug\netcoreapp3.0\LAB_16_TASKS.deps.json
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\LAB_16_TASKS\bin\Debug\netcoreapp3.0\LAB_16_TASKS.runtimeconfig.json
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\LAB_16_TASKS\bin\Debug\netcoreapp3.0\LAB_16_TASKS.runtimeconfig.dev.json
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\LAB_16_TASKS\bin\Debug\netcoreapp3.0\LAB_16_TASKS.dll
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\LAB_16_TASKS\bin\Debug\netcoreapp3.0\LAB_16_TASKS.pdb
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\LAB_16_TASKS\obj\Debug\netcoreapp3.0\LAB_16_TASKS.AssemblyInfoInputs.cache
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\LAB_16_TASKS\obj\Debug\netcoreapp3.0\LAB_16_TASKS.AssemblyInfo.cs
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\LAB_16_TASKS\obj\Debug\netcoreapp3.0\LAB_16_TASKS.dll
+C:\Users\Dilan Patel\Engineering45\Labs\Labs\LAB_16_TASKS\obj\Debug\netcoreapp3.0\LAB_16_TASKS.pdb
